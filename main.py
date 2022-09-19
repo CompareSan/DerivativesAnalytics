@@ -1,6 +1,5 @@
 import datetime as dt
 import matplotlib.pyplot as plt
-import seaborn as sns
 from constant_short_rate import ConstantShortRate
 from market_environment import MarketEnvironment
 from geometric_brownian_motion import GBM
